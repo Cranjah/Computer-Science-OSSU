@@ -154,7 +154,6 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN) | ✅ | [Introduction to Programming](https://programming-24.mooc.fi/) | [Own Certificate](https://certificates.mooc.fi/validate/mrmzq0gp63)
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs)
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | - | - | -
-Additional: [Introduction to JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | 6 weeks | 3 hours/week | - | - | ✅ | [Introduction to JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/4895982c2f344c61a7df09cc2be60427)
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -182,10 +181,6 @@ Understanding theory is important, but you will also be expected to create progr
 `vim`
 `command line environments`
 `version control`
-`html`
-`css`
-`javascript`
-`web development`
 `and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
@@ -299,11 +294,37 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe) | - | - | -
-[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK) | - | - | -
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd) | - | - | -
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe) | - | - | -
+[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK) | - | - | -
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd) | - | - | -
 
-## Core Bonuses
+## Core Voluntary Bonuses
+
+### Core project management
+
+**Topics covered**:
+`project management`
+`scrum`
+`agility`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
+:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
+[Introduction to Project Management](https://www.edx.org/learn/project-management/university-of-adelaide-introduction-to-project-management) | 6 weeks | 3 hours/week | - | - | ✅ | [Introduction to Project Management](https://www.edx.org/learn/project-management/university-of-adelaide-introduction-to-project-management) | [Own Certificate](https://courses.edx.org/certificates/7b5da0c8efa04f119114d9e6e0684032)
+
+
+### Core web development
+
+**Topics covered**:
+`html`
+`css`
+`javascript`
+`web development`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
+:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
+[JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | 6 weeks | 3 hours/week | - | - | ✅ | [JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/4895982c2f344c61a7df09cc2be60427)
 
 ### Core artificial intelligence
 
