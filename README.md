@@ -305,6 +305,13 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 
 **Topics covered**:
 `Artificial Intelligence`
+`Search Algorithms`
+`Machine Learning`
+`Probability and Statistics`
+`Optimization`
+`Neural Networks`
+`Language Processing`
+`and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
