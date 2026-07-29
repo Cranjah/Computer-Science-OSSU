@@ -403,7 +403,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://ossu.dev/precollege-math) | [chat](https://discord.gg/m6wHbP6) | - | - | -
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://ossu.dev/precollege-math) | [chat](https://discord.gg/m6wHbP6) | ✅ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH) | - | - | -
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq) | - | - | -
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5) | - | - | -
