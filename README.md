@@ -126,7 +126,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9) | ✅ | [Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
+[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9) | ✅ | [Computer Science for Python Programming](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming) | [Own Certificate](https://credentials.edx.org/credentials/e6e3fd24f97e42e082a9e5bfd93e0846/)
 
 ## Core CS
 
@@ -149,7 +149,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | - | - | -
+[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | ✅ | [Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
 [Class-based Program Design](coursepages/class-based/README.md) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | ✅ | [Introduction to Programming with Python](https://cs50.harvard.edu/python/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
 [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN) | ✅ | [Introduction to Programming](https://programming-24.mooc.fi/) | [Own Certificate](https://certificates.mooc.fi/validate/mrmzq0gp63)
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs)
@@ -246,7 +246,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | [Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
-Cybersecurity Fundamentals | - | - | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | Cyberwar, Surveillance and Security | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | Cyberwar, Surveillance and Security | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | [chat](https://discord.gg/5gMdeSK) | - | - | -
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | [chat](https://discord.gg/V78MjUS) | - | - | -
 
@@ -394,7 +394,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies  | - | - | -
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | - | - | - | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | ✅ | [Computer Forensics](https://www.edx.org/learn/computer-forensics/rochester-institute-of-technology-computer-forensics) | -
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | ✅ | [Computer Forensics](https://www.edx.org/learn/computer-forensics/rochester-institute-of-technology-computer-forensics) | Not Purchased
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security | - | - | -
 [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse | - | - | -
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation | - | - | -
@@ -404,7 +404,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://ossu.dev/precollege-math) | [chat](https://discord.gg/m6wHbP6) | ✅ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH) | - | - | -
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH) | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq) | - | - | -
 [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5) | - | - | -
 [Probability](https://stat110.hsites.harvard.edu/) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU) | - | - | -
