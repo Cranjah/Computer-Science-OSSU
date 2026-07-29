@@ -230,8 +230,8 @@ Courses | Duration | Effort | Additional Text / Assignments | Prerequisites | Di
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) | - | - | -
-[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) | - | - | -
+[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 
 ### Core security
 **Topics covered**
