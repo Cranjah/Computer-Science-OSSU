@@ -152,7 +152,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | ✅ | [Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
 [Class-based Program Design](coursepages/class-based/README.md) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | ✅ | [Introduction to Programming with Python](https://cs50.harvard.edu/python/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
 [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN) | ✅ | [Introduction to Programming](https://programming-24.mooc.fi/) | [Own Certificate](https://certificates.mooc.fi/validate/mrmzq0gp63)
-[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs)
+[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | - | - | -
 
 ### Core math
@@ -185,7 +185,7 @@ Understanding theory is important, but you will also be expected to create progr
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | ✅ | [Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) | [Own Certificate](https://verify.edx.org/cert/006d9c67cffe43bc98bc4304a3a9b7f0)
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | ✅ | [Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://verify.edx.org/cert/006d9c67cffe43bc98bc4304a3a9b7f0) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 
 ### Core systems
 
@@ -245,7 +245,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | [Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
-[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | Cyberwar, Surveillance and Security | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | [Cyberwar, Surveillance and Security](https://learning.edx.org/course/course-v1:AdelaideX+Cyber101x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | [chat](https://discord.gg/5gMdeSK) | - | - | -
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | [chat](https://discord.gg/V78MjUS) | - | - | -
 
@@ -294,37 +294,11 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 
 Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
 :-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe) | - | - | -
-[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK) | - | - | -
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd) | - | - | -
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe) | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK) | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd) | ✅ |  [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals)  | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
 
 ## Core Voluntary Bonuses
-
-### Core project management
-
-**Topics covered**:
-`project management`
-`scrum`
-`agility`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Introduction to Project Management](https://www.edx.org/learn/project-management/university-of-adelaide-introduction-to-project-management) | 6 weeks | 3 hours/week | - | - | ✅ | [Introduction to Project Management](https://www.edx.org/learn/project-management/university-of-adelaide-introduction-to-project-management) | [Own Certificate](https://courses.edx.org/certificates/7b5da0c8efa04f119114d9e6e0684032)
-
-
-### Core web development
-
-**Topics covered**:
-`html`
-`css`
-`javascript`
-`web development`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | 6 weeks | 3 hours/week | - | - | ✅ | [JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/4895982c2f344c61a7df09cc2be60427)
 
 ### Core artificial intelligence
 
