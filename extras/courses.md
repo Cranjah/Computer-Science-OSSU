@@ -92,7 +92,6 @@ Courses | Duration | Effort
 [How to Use Git and GitHub](https://www.udacity.com/blog/2015/06/a-beginners-git-github-tutorial.html) | 3 weeks | 2-3 hours/week
 [Kubernetes Certified Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/) | 5 weeks | 2 hours/week
 
-
 # Online Learning - Great Courses
 
 Courses | Duration | Effort
@@ -100,3 +99,30 @@ Courses | Duration | Effort
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
 [Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
 [Powersearching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) | 3 weeks | 4-6 hours/week
+
+# Own Suggestions / Bonuses / Edits
+
+## Project Management
+
+**Topics covered**:
+`project management`
+`scrum`
+`agility`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
+:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
+[Introduction to Project Management](https://www.edx.org/learn/project-management/university-of-adelaide-introduction-to-project-management) | 6 weeks | 3 hours/week | - | - | ✅ | [Introduction to Project Management](https://www.edx.org/learn/project-management/university-of-adelaide-introduction-to-project-management) | [Own Certificate](https://courses.edx.org/certificates/7b5da0c8efa04f119114d9e6e0684032)
+
+## Core Web Development
+
+**Topics covered**:
+`javascript`
+`html`
+`css`
+`web development`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
+:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
+[JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | 6 weeks | 3 hours/week | - | - | ✅ | [JavaScript, HTML and CSS Web Development](https://learning.edx.org/course/course-v1:Microsoft+DEV211.1x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/4895982c2f344c61a7df09cc2be60427)
