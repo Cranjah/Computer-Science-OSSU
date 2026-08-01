@@ -124,9 +124,9 @@ This course will introduce you to the world of computer science and programming.
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9) | ✅ | [Computer Science for Python Programming](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming) | [Own Certificate](https://credentials.edx.org/credentials/e6e3fd24f97e42e082a9e5bfd93e0846/)
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | ✅ | [Computer Science for Python Programming](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming) | [Own Certificate](https://credentials.edx.org/credentials/e6e3fd24f97e42e082a9e5bfd93e0846/)
 
 ## Core CS
 
@@ -147,13 +147,13 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | ✅ | [Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
-[Class-based Program Design](coursepages/class-based/README.md) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | ✅ | [Introduction to Programming with Python](https://cs50.harvard.edu/python/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
-[Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN) | ✅ | [Introduction to Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://certificates.mooc.fi/validate/mrmzq0gp63) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | - | - | -
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | ✅ | [Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
+[Class-based Program Design](coursepages/class-based/README.md) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | ✅ | [Introduction to Programming with Python](https://cs50.harvard.edu/python/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
+[Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | ✅ | [Introduction to Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://certificates.mooc.fi/validate/mrmzq0gp63) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | - | - | -
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
@@ -166,12 +166,12 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 `discrete probability`
 `and more`
 
-Courses | Duration | Effort | Notes | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://ossu.dev/precollege-math) | [chat](https://discord.gg/mPCt45F) | - | - | -
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://discord.gg/sddAsZg) | - | - | -
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://discord.gg/FNEcNNq) | - | - | -
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | [chat](https://discord.gg/EuTzNbF) | 🚧 | [Per eBook Reading](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) | [Per eBook Reading](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+Courses | Duration | Effort | Notes | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](https://ossu.dev/precollege-math) | - | - | -
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | - | - | -
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | - | - | -
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | 🚧 | [Per eBook Reading](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) | [Per eBook Reading](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 
 ### CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
@@ -183,9 +183,9 @@ Understanding theory is important, but you will also be expected to create progr
 `version control`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | ✅ | [Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://verify.edx.org/cert/006d9c67cffe43bc98bc4304a3a9b7f0) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | ✅ | [Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) and [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Own Certificate](https://verify.edx.org/cert/006d9c67cffe43bc98bc4304a3a9b7f0) and [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 
 ### Core systems
 
@@ -205,12 +205,12 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 `network protocols`
 `and more`
 
-Courses | Duration | Effort | Additional Text / Assignments | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV) | - | - | -
-[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu) | - | - | -
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://discord.gg/wZNgpep) | - | - | -
-[Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV) | - | - | -
+Courses | Duration | Effort | Additional Text / Assignments | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | - | - | -
+[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | - | - | -
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | - | - | -
+[Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | - | - | -
 
 ### Core theory
 
@@ -227,10 +227,10 @@ Courses | Duration | Effort | Additional Text / Assignments | Prerequisites | Di
 `NP-completeness`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 
 ### Core security
 **Topics covered**
@@ -242,19 +242,19 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 `Cryptography`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | [Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
-[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ | [Cyberwar, Surveillance and Security](https://learning.edx.org/course/course-v1:AdelaideX+Cyber101x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [Cyberwar, Surveillance and Security](https://learning.edx.org/course/course-v1:AdelaideX+Cyber101x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | [chat](https://discord.gg/5gMdeSK) | - | - | -
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | [chat](https://discord.gg/V78MjUS) | - | - | -
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | - | - | -
 
 Choose **one** of the following:
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | - | [chat](https://discord.gg/Vbxce7A) | - | - | -
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | - | [chat](https://discord.gg/QxC22rR) | - | - | -
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | - | - | - | -
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | - | - | - | -
 
 ### Core applications
 
@@ -273,14 +273,14 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 `ray tracing`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4) | ✅ | [Introduction to SQL](https://www.sololearn.com/de/learn/courses/sql-introduction) | [Own Certificate](https://www.sololearn.com/certificates/CC-NQK6PTHO)
-[Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF) | ✅ | [Intermediate SQL](https://www.sololearn.com/de/learn/courses/sql-intermediate) | [Own Certificate](https://www.sololearn.com/certificates/CC-OLKX4KPI)
-[Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN) | - | - | -
-[Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy) | - | - | -
-[Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, [Basic Linear Algebra](https://ossu.dev/precollege-math/coursepages/precalculus) | [chat](https://discord.gg/68WqMNV) | - | - | -
-[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) ([alternative](https://github.com/ubccpsc/310/blob/main/resources/README.md)) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz) | - | - | -
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)| 2 weeks | 10 hours/week | core programming | ✅ | [Introduction to SQL](https://www.sololearn.com/de/learn/courses/sql-introduction) | [Own Certificate](https://www.sololearn.com/certificates/CC-NQK6PTHO)
+[Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)| 2 weeks | 10 hours/week | core programming | ✅ | [Intermediate SQL](https://www.sololearn.com/de/learn/courses/sql-intermediate) | [Own Certificate](https://www.sololearn.com/certificates/CC-OLKX4KPI)
+[Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)| 2 weeks | 10 hours/week | core programming | - | - | -
+[Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)| 11 weeks | 9 hours/week | Basic coding | - | - | -
+[Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, [Basic Linear Algebra](https://ossu.dev/precollege-math/coursepages/precalculus) | - | - | -
+[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) ([alternative](https://github.com/ubccpsc/310/blob/main/resources/README.md)) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | - | - | -
 
 ### Core ethics
 
@@ -292,11 +292,11 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 `Privacy and Civil Liberties`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe) | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
-[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK) | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd) | ✅ |  [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals)  | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | ✅ |  [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals)  | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
 
 ## Core Voluntary Bonuses
 
@@ -312,11 +312,11 @@ Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken
 `Language Processing`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Elements of AI](https://www.elementsofai.com/) | 6 weeks | 10 hours/week | none | - | ✅ | [Elements of AI](https://www.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/mro58gy02yl)
-[Building AI](https://buildingai.elementsofai.com/) | 5 weeks | 10 hours/week | Python, Core Programming and Elements of AI | - | ✅ | [Building AI](https://buildingai.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/sdnqa8u17h)
-[Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) | 7 weeks | 10-30 hours/week | Python, Core CS and Core Programming | - | -  | -  | - 
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Elements of AI](https://www.elementsofai.com/) | 6 weeks | 10 hours/week | none | ✅ | [Elements of AI](https://www.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/mro58gy02yl)
+[Building AI](https://buildingai.elementsofai.com/) | 5 weeks | 10 hours/week | Python, Core Programming and Elements of AI | ✅ | [Building AI](https://buildingai.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/sdnqa8u17h)
+[Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) | 7 weeks | 10-30 hours/week | Python, Core CS and Core Programming | - | - | - 
 
 ## Advanced CS
 
@@ -335,8 +335,8 @@ But students should take *every* course that is relevant to the field they inten
 `large-scale software architecture and design`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--:| :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming | - | - | -
 [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) | 9 weeks | 6-8 hours/week | none | - | - | -
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | - | - | - | -
@@ -364,8 +364,8 @@ Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
 `system call interface`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Notes | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Notes | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--:| :--: | :--: | :--:
 [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses. | - | - | -
 [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 | -  | - | - | -
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 | - | - | - | -
@@ -388,16 +388,16 @@ Courses | Duration | Effort | Prerequisites | Notes | Passed | Course Taken | Pr
 `game trees`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--:| :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--:| :--: | :--: | :--:
 [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alternative](https://www.youtube.com/playlist?list=PLEE7DF8F5E0203A56)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), logic, algorithms | - | - | -
 [Computational Geometry](https://www.edx.org/learn/geometry/tsinghua-university-ji-suan-ji-he-computational-geometry) | 16 weeks | 8 hours/week | algorithms, C++ | - | - | -
 [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html) | 10 weeks | 12 hours/week | Core Theory | - | - | -
 
 ### Advanced Information Security
 
-Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies  | - | - | -
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | - | - | - | -
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | ✅ | [Computer Forensics](https://www.edx.org/learn/computer-forensics/rochester-institute-of-technology-computer-forensics) | No Proof
@@ -407,13 +407,13 @@ Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
 
 ### Advanced math
 
-Courses | Duration | Effort | Prerequisites | Discussion | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--: | :--:| :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://ossu.dev/precollege-math) | [chat](https://discord.gg/m6wHbP6) | ✅ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH) | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq) | - | - | -
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5) | 🚧 | [Per eBook Reading](https://forallx.openlogicproject.org/) | [Per eBook Reading](https://forallx.openlogicproject.org/)
-[Probability](https://stat110.hsites.harvard.edu/) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU) | - | - | -
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://ossu.dev/precollege-math) | ✅ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | - | - | -
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | 🚧 | [Per eBook Reading](https://forallx.openlogicproject.org/) | [Per eBook Reading](https://forallx.openlogicproject.org/)
+[Probability](https://stat110.hsites.harvard.edu/) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | - | - | -
 
 ## Final project
 
@@ -428,8 +428,8 @@ Students who would like more guidance in creating a project may choose to use a 
 Here is a sample of options
 (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
 
-Courses | Duration | Effort | Prerequisites | Passed | Course Taken | Proof
-:-- | :--: | :--: | :--:| :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming | - | - | -
 [Modern Robotics](https://modernrobotics.northwestern.edu) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations) | - | - | -
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning | - | - | -
