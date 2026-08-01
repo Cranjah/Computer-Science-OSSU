@@ -229,8 +229,8 @@ Courses | Duration | Effort | Additional Text / Assignments | Prerequisites | Pa
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
-[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | ❌ | [Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | 🚧 & ❌ | [Algorithms, Part 1 in Progress](https://www.coursera.org/learn/algorithms-part1) and [Failed Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
+[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | 🚧 & ❌ | [Algorithms, Part 2 in Progress](https://www.coursera.org/learn/algorithms-part2) and [Failed Per HWR Curriculum](https://drive.google.com/drive/folders/1rJqW7NffSQpQDT9rmFkIHIGSNMR94l8X?usp=drive_link) | [Per HWR Enrollment](https://drive.google.com/drive/folders/15Fc7NOs-JljmNrTEcs03uPmAxACIFv-a?usp=drive_link)
 
 ### Core security
 **Topics covered**
@@ -316,7 +316,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Elements of AI](https://www.elementsofai.com/) | 6 weeks | 10 hours/week | none | ✅ | [Elements of AI](https://www.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/mro58gy02yl)
 [Building AI](https://buildingai.elementsofai.com/) | 5 weeks | 10 hours/week | Python, Core Programming and Elements of AI | ✅ | [Building AI](https://buildingai.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/sdnqa8u17h)
-[Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) | 7 weeks | 10-30 hours/week | Python, Core CS and Core Programming | - | - | - 
+[Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) | 7 weeks | 10-30 hours/week | Python, Core CS and Core Programming | 🚧 | [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) | No Proof, yet
 
 ## Advanced CS
 
@@ -400,7 +400,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies  | - | - | -
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | - | - | - | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | ✅ | [Computer Forensics](https://www.edx.org/learn/computer-forensics/rochester-institute-of-technology-computer-forensics) | No Proof
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | ✅ | [Computer Forensics](https://www.edx.org/learn/computer-forensics/rochester-institute-of-technology-computer-forensics) | No Proof, yet
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security | - | - | -
 [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse | - | - | -
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation | - | - | -
@@ -463,7 +463,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 ## How to show your progress
 
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
+[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses). Use the ❌ to mark courses you did not pass (just in case) and 🚧 for things you are working on at the moment, might be a course / reading in progress.
 
 # Team
 
