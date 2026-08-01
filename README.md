@@ -43,7 +43,7 @@ but specifically chosen to meet the following criteria.
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+they belong in [extrascourses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
@@ -422,7 +422,7 @@ The assignments and exams for each course are to prepare you to use your knowled
 
 After you've completed Core CS and the parts of Advanced CS relevant to you,
 you should identify a problem that you can solve using the knowledge you've acquired.
-You can create something entirely new, or you can improve some tool/program that you use and wish were better.
+You can create something entirely new, or you can improve some tool / program that you use and wish were better.
 
 Students who would like more guidance in creating a project may choose to use a series of project oriented courses.
 Here is a sample of options
