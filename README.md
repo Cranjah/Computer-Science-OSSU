@@ -55,7 +55,7 @@ they belong in [extrascourses](extras/courses.md) or [extras/readings](extras/re
   
 > **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not always be up-to-date with the curriculum. Use the [OSSU CS website](https://cs.ossu.dev) or [the repo](https://github.com/ossu/computer-science) to see what courses to do.
 
-**Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
+**Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments / tests / projects to be graded.
 Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
 
 Decide how much or how little to spend based on your own time and budget;
