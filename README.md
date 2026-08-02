@@ -70,7 +70,7 @@ just remember that you can't purchase success!
 
 **[How to contribute](CONTRIBUTING.md)**
 
-**[Getting help](HELP.md)** (Details about our FAQ and Chatroom)
+**[Getting some help](HELP.md)** (Details about our FAQ and Chatroom)
 
 # Community
 
