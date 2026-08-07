@@ -18,7 +18,7 @@
 
 - [Summary](#summary)
 - [Community](#community)
-- [Curriculum](#curriculum)
+- [CS-Curriculum](#cs-curriculum)
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
@@ -83,7 +83,7 @@ just remember that you can't purchase success!
 >  - An unmaintained and deprecated trello board
 >  - Third-party notion templates
 
-# Curriculum
+# CS-Curriculum
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
