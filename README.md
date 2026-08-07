@@ -19,7 +19,7 @@
 - [Summary](#summary)
 - [Community](#community)
 - [CS-Curriculum](#cs-curriculum)
-- [Code of conduct](#code-of-conduct)
+- [Code of Conduct](#code-of-conduct)
 - [Team](#team)
 
 # Summary
@@ -456,7 +456,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 <img src="images/keep-learning.png" alt="Keep Learning."/>
 
-# Code of conduct
+# Code of Conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 ## How to show your progress
