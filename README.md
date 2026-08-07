@@ -313,8 +313,8 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Elements of AI](https://www.elementsofai.com/) | 6 weeks | 10 hours/week | none | ✅ | [Elements of AI](https://www.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/mro58gy02yl)
-[Building AI](https://buildingai.elementsofai.com/) | 5 weeks | 10 hours/week | Python, Core Programming and Elements of AI | ✅ | [Building AI](https://buildingai.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/sdnqa8u17h)
-[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) ([alternative](https://cs50.harvard.edu/ai/)) | 7 weeks | 10-30 hours/week | Python, Core CS and Core Programming | 🚧 | [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) ([alternative](https://cs50.harvard.edu/ai/)) | No Proof Yet
+[Building AI](https://buildingai.elementsofai.com/) | 5 weeks | 10 hours/week | Python, Core Programming and [Elements of AI](https://www.elementsofai.com/) | ✅ | [Building AI](https://buildingai.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/sdnqa8u17h)
+[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) ([alternative](https://cs50.harvard.edu/ai/)) | 7 weeks | 10-30 hours/week | Python, Core CS, Core Programming | 🚧 | [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) ([alternative](https://cs50.harvard.edu/ai/)) | No Proof Yet
 
 ## Advanced CS
 
