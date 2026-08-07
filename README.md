@@ -147,7 +147,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | ✅ | [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
+[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | - | ✅ | [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) | [Own Certificate](https://certificates.cs50.io/9904bc2c-2067-4045-a299-5861696c1d50.pdf?size=A4)
 [Class-Based Program Design](coursepages/class-based/README.md) | 13 weeks | 5-10 hours/week | [Systematic Program Design](coursepages/spd/README.md), [High School Algebra](https://ossu.dev/precollege-math) | ✅ | [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
 [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | [Systematic Program Design](coursepages/spd/README.md) | ✅ | [Introduction to Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Curriculum) | [Own Certificate](https://certificates.mooc.fi/validate/mrmzq0gp63) and [Per HWR Enrollment](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Enrollment)
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | [Class-Based Program Design](coursepages/class-based/README.md) | ✅ | [Advanced Programming](https://programming-24.mooc.fi/) and [Per HWR Curriculum](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Curriculum) | [Own Certificate](https://certificates.mooc.fi/validate/jn6kits13rs) and [Per HWR Enrollment](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Enrollment)
@@ -242,17 +242,17 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | none | ✅ | [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
-[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | none | ✅ | [Cyberwar, Surveillance and Security](https://learning.edx.org/course/course-v1:AdelaideX+Cyber101x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | none | - | - | -
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | none | - | - | -
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [Cyberwar, Surveillance and Security](https://learning.edx.org/course/course-v1:AdelaideX+Cyber101x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | - | - | -
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | - | - | -
 
 Choose **one** of the following:
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | none | - | - | -
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | none | - | - | -
+[Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | - | - | - | -
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | - | - | - | -
 
 ### Core applications
 
@@ -292,9 +292,9 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
-[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | ✅ |  [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals)  | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | - | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | - | ✅ | [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals) | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | - | ✅ |  [Justice](https://www.edx.org/learn/justice/harvard-university-justice) and [Justice Today](https://www.edx.org/learn/justice/harvard-university-justice-today-money-markets-and-morals)  | [Own Certificate](https://courses.edx.org/certificates/b3ad4ae46b6d47b89006e92705f56048) and [Own Certificate](https://courses.edx.org/certificates/1c950a39428a4689a9b30ab8be1698dd)
 
 ## Core Voluntary Bonuses
 
@@ -312,7 +312,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Elements of AI](https://www.elementsofai.com/) | 6 weeks | 10 hours/week | none | ✅ | [Elements of AI](https://www.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/mro58gy02yl)
+[Elements of AI](https://www.elementsofai.com/) | 6 weeks | 10 hours/week | - | ✅ | [Elements of AI](https://www.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/mro58gy02yl)
 [Building AI](https://buildingai.elementsofai.com/) | 5 weeks | 10 hours/week | Python, Core Programming and [Elements of AI](https://www.elementsofai.com/) | ✅ | [Building AI](https://buildingai.elementsofai.com/) | [Own Certificate](https://certificates.mooc.fi/validate/sdnqa8u17h)
 [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) ([alternative](https://cs50.harvard.edu/ai/)) | 7 weeks | 10-30 hours/week | Python, Core CS, Core Programming | 🚧 | [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) ([alternative](https://cs50.harvard.edu/ai/)) | No Proof Yet
 
@@ -336,9 +336,9 @@ But students should take *every* course that is relevant to the field they inten
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala Programming | - | - | -
-[Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) | 9 weeks | 6-8 hours/week | none | - | - | -
-[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | 14 weeks | - | none | - | - | -
-[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | none | - | - | -
+[Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) | 9 weeks | 6-8 hours/week | - | - | - | -
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | 14 weeks | - | - | - | - | -
+[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | - | - | - | -
 [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A) | 8 weeks | 6 hours/week | Python, Object-Oriented Programming | - | - | -
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, Programming Experience | - | - | -
 
@@ -397,7 +397,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | 5 weeks | 4-6 hours/week | Understanding Basic Web Technologies  | - | - | -
-[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | none | - | - | -
+[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | - | - | - | -
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | ✅ | [Computer Forensics](https://www.edx.org/learn/computer-forensics/rochester-institute-of-technology-computer-forensics) | No Proof Yet
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security | - | - | -
 [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse | - | - | -
@@ -431,10 +431,10 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | Core Programming | - | - | -
 [Modern Robotics](https://modernrobotics.northwestern.edu) | 26 weeks | 2-5 hours/week | Freshman-Level Physics, Linear Algebra, Calculus, [Linear Ordinary Differential Equations](https://www.khanacademy.org/math/differential-equations) | - | - | -
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | Machine Learning | - | - | -
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none | - | - | -
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | - | - | - | -
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | Strong Programming | - | - | -
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ Programming | - | - | -
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none | - | - | -
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | - | - | - | -
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One Year Programming Experience | - | - | -
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | Programming, Interactive Design | - | - | -
 
