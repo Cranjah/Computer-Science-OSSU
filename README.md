@@ -227,8 +227,8 @@ Courses | Duration | Effort | Additional Text / Assignments | Prerequisites | Pa
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | 🚧 ✅ | [Algorithms, Part 1 in Progress](https://www.coursera.org/learn/algorithms-part1) and [Passed Per Project](https://github.com/Cranjah/Casual-TSP-Iterations) | [Per Own Project](https://github.com/Cranjah/Casual-TSP-Iterations)
-[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | 🚧 ✅ | [Algorithms, Part 2 in Progress](https://www.coursera.org/learn/algorithms-part2) and [Passed Per Project](https://github.com/Cranjah/Casual-TSP-Iterations) | [Per Own Project](https://github.com/Cranjah/Casual-TSP-Iterations)
+[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | 🚧 ✅ | [Algorithms, Part 1 in Progress](https://www.coursera.org/learn/algorithms-part1) and [Passed Per Own Project](https://github.com/Cranjah/Casual-TSP-Iterations) | [Per Own Project](https://github.com/Cranjah/Casual-TSP-Iterations)
+[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | 🚧 ✅ | [Algorithms, Part 2 in Progress](https://www.coursera.org/learn/algorithms-part2) and [Passed Per Own Project](https://github.com/Cranjah/Casual-TSP-Iterations) | [Per Own Project](https://github.com/Cranjah/Casual-TSP-Iterations)
 
 ### Core security
 **Topics covered**
