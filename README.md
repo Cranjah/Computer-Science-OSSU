@@ -430,7 +430,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | Core Programming | - | - | -
 [Modern Robotics](https://modernrobotics.northwestern.edu) | 26 weeks | 2-5 hours/week | Freshman-Level Physics, Linear Algebra, Calculus, [Linear Ordinary Differential Equations](https://www.khanacademy.org/math/differential-equations) | - | - | -
-[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | Machine Learning | - | - | -
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/) | - | - | -
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | - | - | - | -
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | Strong Programming | - | - | -
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ Programming | - | - | -
