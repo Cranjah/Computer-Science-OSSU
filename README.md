@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<img src="images/ossu-logo.png" alt="Open Source Society Logo"/>
+<img src="images/ossu-logo.png" alt="Open Source Society University Logo"/>
 <h3>Open Source Society University</h3>
 <p>
   Path to a free self-taught education in Computer Science!
